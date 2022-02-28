@@ -10,7 +10,7 @@
 <body>
 	<div id="main">
 		<div id="header">
-			<h1>Dynamic Dependent Select Box in<br> PHP & jQuery Ajax</h1>
+			<h1><?php echo "Dynamic Dependent Select Box in<br> PHP & jQuery Ajax"; ?></h1>
 		</div>
 		<div id="content">
 			<form method="">
